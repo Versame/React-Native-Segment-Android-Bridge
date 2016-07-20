@@ -11,6 +11,10 @@ A react native android bridge for <a href="https://segment.com/">Segment IO</a>
 3) run on Android device with react-native run-android
 ```
 
+# Test
+
+Test with the two buttons, register user and track event on the react native application. You should see an identified user and a tracked event in your Segment debugger page.
+
 # Documentation
 
 ```
