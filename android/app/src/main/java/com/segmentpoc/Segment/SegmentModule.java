@@ -15,7 +15,6 @@ public class SegmentModule extends ReactContextBaseJavaModule {
 
     public SegmentModule(ReactApplicationContext reactContext) {
         super(reactContext);
-
     }
 
     @Override
@@ -54,5 +53,4 @@ public class SegmentModule extends ReactContextBaseJavaModule {
     public void setUserId(String id) {
         Analytics.with(this.getReactApplicationContext()).identify(id, null, null);
     }
-
 }
