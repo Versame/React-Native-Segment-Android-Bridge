@@ -4,12 +4,10 @@ A react native android bridge for <a href="https://segment.com/">Segment IO</a>
 
 # Setup
 
-```
-1) $ git clone git@github.com:Versame/React-Native-Segment-Android-Bridge.git
-2) In the file project_source/android/app/src/main/java/com/segmentpoc/Segment/SegmentModule.java:
-  replace "xxxxxxxxxxxxxxxxxxxxxxx" with your segment account api key.
-3) run on Android device with react-native run-android
-```
+* $ ```git clone git@github.com:Versame/React-Native-Segment-Android-Bridge.git```
+* In the file project_source/android/app/src/main/java/com/segmentpoc/Segment/SegmentModule.java:
+  replace ```"xxxxxxxxxxxxxxxxxxxxxxx"``` with your segment account api key.
+* run on Android device with react-native run-android
 
 # Test
 
@@ -58,3 +56,7 @@ Or if you'd like to pass in props as well, use the following method:
 
     }
 ```
+
+# License
+
+MIT
