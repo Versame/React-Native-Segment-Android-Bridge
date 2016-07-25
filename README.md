@@ -1,7 +1,7 @@
 # React-Native-Segment-Android-Bridge
 # Introduction
 
-This is a react native android bridge example project for <a href="https://segment.com/">Segment IO</a>. The example project had native android dependencies and is strictly an Android example project. 
+This is a react native android bridge example project for <a href="https://segment.com/">Segment IO</a>. The example project has native Android dependencies and is strictly an Android example project. 
 
 # Setup
 
